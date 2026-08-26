@@ -7,7 +7,7 @@
 
 7\. R: A linguagem Flow-matic foi a primeira linguagem que mostrou que a sintaxe das linguagens deveriam ser escritas em inglês para melhorar a legibilidade dos códigos, onde o COBOL bebeu muito dessa influência em sua criação. Feita no pentágono em uma reunião feita pelo ministério da defesa americano. Na sua legibilidade, por ser em inglês, não pensava somente no programador, mas também no gerente, isso ajudou a impulsionar a linguagem no meio comercial, além disso o COBOL criou o meio em que tivemos os registros hierárquicos.
 
-8\. R: BASIC e PL/I surgiram na década de 1960 para expandir a programação, mas com abordagens totalmente opostas. O BASIC focou em ampliar o acesso, sendo desenhado para democratizar a computação e permitir que iniciantes e estudantes não técnicos pudessem programar facilmente. Seu compromisso de projeto foi sacrificar o desempenho computacional e os recursos avançados de estruturação de código em favor da extrema simplicidade, o que facilitava o aprendizado, mas frequentemente gerava códigos desorganizados. Por outro lado, o PL/I focou em ampliar o alcance, tentando unificar os domínios científico (que usava Fortran) e comercial (que usava COBOL) em uma única linguagem "faz-tudo" para os computadores da IBM. Seu compromisso de projeto foi sacrificar a simplicidade e a viabilidade do compilador em troca de uma abrangência total, resultando em uma linguagem gigantesca, excessivamente complexa para os programadores aprenderem e extremamente difícil de ser implementada de forma eficiente. 
+8\. R: BASIC e PL/I surgiram na década de 1960 para expandir a programação, mas com abordagens totalmente opostas. O BASIC focou em ampliar o acesso, sendo desenhado para democratizar a computação e permitir que iniciantes e estudantes não técnicos pudessem programar facilmente. Seu compromisso de projeto foi sacrificar o desempenho computacional e os recursos avançados de estruturação de código em favor da extrema simplicidade, o que facilitava o aprendizado, mas frequentemente gerava códigos desorganizados. Por outro lado, o PL/I focou em ampliar o alcance, tentando unificar os domínios científico (que usava Fortran) e comercial (que usava COBOL) em uma única linguagem "faz-tudo" para os computadores da IBM. Seu compromisso de projeto foi sacrificar a simplicidade e a viabilidade do compilador em troca de uma abrangência total, resultando em uma linguagem gigantesca, excessivamente complexa para os programadores aprenderem e extremamente difícil de ser implementada de forma eficiente.
 
 15\. R: Uma linguagem de programação pode ser descoberta como eficiente para outras questões quando surge um ecossistema que permite que essa linguagem atue de melhor forma, utilizando as próprias implementações da linguagem sem necessidade de uma mudança massiva de funções. O caso do Java ser utilizado em aplicações WEB se deve à sua funcionalidade de applets Java, um recurso que utiliza programas muito leves, o que tornou o Java uma potência web inquestionável. Então, uma linguagem não precisa necessariamente ser criada para um propósito e só servir para um único propósito; elementos de sua criação podem ser difundidos e aproveitados também por outras áreas.
 
@@ -16,12 +16,4 @@
 das de tuplas; e dispersões, chamadas de dicionários. Em Ruby, cada valor de dados é um objeto e todas as operações são feitas por meio de chamadas a métodos. Como estrutura de dados, Lua possui só uma: tabela. Estratégia de implementação: Perl é híbrido. JavaScript é interpretado. PHP é interpretado. Python é híbrido. Ruby é interpretado. Lua é híbrido.
 
 20\. R: Tenho como exemplo o Rust, pois ele atende aos requisitos, mesmo hoje em dia não sendo amplamente usado para embarcados com o Firmware restrito, ele está sendo muito popular por ser uma linguagem “Amigavel” e muito segura. Nesse caso, nossos trade-offs seria que temos muitos programadores usando essa linguagem e estudando seus limites, assim aumentando sua vida util, mas em contrapartida ainda uma linguagem considerada “nova”. Para o segundo trade-off temos a sua segurança de memória mas perdemos um controle ultra-fino do hardware
-
-
-
-
-
-
-
-
 
